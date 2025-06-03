@@ -1,8 +1,9 @@
 langchain
-# langchain-google-genai
-langchain_google_genai
+langchain-google-genai
 langchain-community
 google-generativeai
 python-dotenv
 duckduckgo-search
 pydantic
+faiss-cpu
+sentence-transformers
