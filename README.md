@@ -1,4 +1,4 @@
-# Project Title
+# Basic LangChain Agent 
 
 Simple agent with tools for responding to simnple queries.
 
@@ -51,4 +51,4 @@ python simple_agent.py
 └── README.md
 ``` 
 
-Add text files to the knowledge_base folder --> to use it as an additional tool.
+**Add text files to the knowledge_base folder --> to use it as an additional tool.**
