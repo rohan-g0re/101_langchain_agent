@@ -216,6 +216,7 @@ if __name__ == "__main__":
         "What is a key challenge related to data in ESG investing?",
         "How is Natural Language Processing (NLP) utilized in modern trading sentiment analysis?",
         "What is 'model decay' in the context of algorithmic trading?",
+        
         "What are YouTube's current monetization eligibility requirements for creators?",
         "How does YouTube's algorithm determine video recommendations for users?",
         "Who is the most subscribed individual creator on YouTube today?"
