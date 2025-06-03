@@ -1,0 +1,8 @@
+langchain
+# langchain-google-genai
+langchain_google_genai
+langchain-community
+google-generativeai
+python-dotenv
+duckduckgo-search
+pydantic
